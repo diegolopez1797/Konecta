@@ -53,4 +53,5 @@ require_once('./Vista/Layauts/Cabecera.php');
 <?php
 
 require_once('./Vista/Layauts/Pie.php');
- ?>
+
+?>
